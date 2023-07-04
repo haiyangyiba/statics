@@ -1,5 +1,5 @@
-# cdn <br/>
-chendd cdn 加速 <br/>
+# 静态资源项目 <br/>
+【chendd cdn 加速的使用规则】 <br/>
 cdn jsdelivr 官网地址：https://www.jsdelivr.com/ <br/>
 jsdelivr gitHub 官网地址：https://github.com/jsdelivr/jsdelivr <br/>
 cdn访问地址如：https://cdn.jsdelivr.net/gh/github用户名/项目名称@标签名/文件路径 <br/>
